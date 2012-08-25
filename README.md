@@ -5,5 +5,4 @@ Dark color scheme for PhpStorm
 
 Installation
 ~~~~~~~~~~~~
-
 Clone repository into Library/Preferences/WebIdeXX/colors/ and select 
