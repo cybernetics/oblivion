@@ -1,9 +1,9 @@
 Dark color scheme for PhpStorm
 ==============================
 
-![Preview](http://cl.ly/image/0o3x3Y162w31)
+![Preview](http://elfet.ru/logo.png)
 
 Installation
 ~~~~~~~~~~~~
 
-Clone repository into ~/Library/Preferences/WebIdeXX/colors/ and select 
+Clone repository into Library/Preferences/WebIdeXX/colors/ and select 
