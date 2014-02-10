@@ -1,7 +1,7 @@
 Dark color scheme for PhpStorm
 ==============================
 
-![Preview](http://elfet.ru/logo.png)
+![Preview](http://habrastorage.org/files/7d4/0dc/4df/7d40dc4dfeb046ac95d3ee4b2bc0e092.png)
 
 Installation
 ------------
